@@ -2,7 +2,7 @@
 This repository contains my project on handwritten digit recognition using the MNIST dataset. It is the first that I build without external assistance, relying solely on documentation and self-study. 
 
 ## Project Overview
-- **Data:** MNIST training and test datasets (CSV format) stored in the data/ folder.
+- **Data:** MNIST training and test datasets (CSV format) stored in the 'data/' folder.
 - **Model:** Support Vector Machine
 - **Analysis:** Confusion Matrix, Graph of Frequent Confusions
 
