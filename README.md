@@ -15,8 +15,8 @@ The confusion graph provides a clear visualization of these relationships and wi
 
 ## Results
 
-- **Accuracy:** 0.92  
-- **Macro Precision:** 0.91 
+- **Accuracy:** 0.96  
+- **Macro Precision:** 0.96 
 
 ## Next Steps
 I plan to revisit it in order to deploy the model on an interactive platform. It could be interesting to see if the model give the same result in another environment than Visual Studio Code. 
