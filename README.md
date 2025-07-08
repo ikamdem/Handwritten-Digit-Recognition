@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition
+# Handwritten Digit Recognition
 This repository contains my project on handwritten digit recognition using the MNIST dataset. It is the first that I build without external assistance, relying solely on documentation and self-study. 
 
 ## Project Overview
