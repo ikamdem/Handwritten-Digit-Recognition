@@ -6,12 +6,17 @@ This repository contains my project on handwritten digit recognition using the M
 - **Model:** Support Vector Machine
 - **Analysis:** Confusion Matrix, Graph of Frequent Confusions
 
-# Key Findings from Confusion Analysis
+## Key Findings from Confusion Analysis
 The confusion analysis reveals several structural weaknesses in the model’s predictions:
 - **Persistent Misclassifications:** Some pairs such as [2,7], [3,5] and [4,9] exhibit bilateral confusion, suggesting that the model struggles to distinguish visually similar shapes.
 - **Stable Classes:** Stable Classes: Digits 0, 1, and 6 show strong separability with minimal confusion.
 - **Bias Indication:** The model tends to predict 1 and 7 more frequently than other classes, hinting at a possible bias.
 The confusion graph provides a clear visualization of these relationships and will guide future improvements.
 
-# Next Steps
+## Results
+
+- **Accuracy:** 0.92  
+- **Macro Precision:** 0.91 
+
+## Next Steps
 I plan to revisit it in order to deploy the model on an interactive platform. It could be interesting to see if the model give the same result in another environment than Visual Studio Code. 
